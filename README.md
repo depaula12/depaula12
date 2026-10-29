@@ -1,6 +1,6 @@
 # Matheus Barbosa de Paula
 
-Estudante de Engenharia de Sistemas no ITA · São José dos Campos, SP
+Estudante de Engenharia Aeronáutica no ITA · São José dos Campos, SP
 
 Construo pipelines de dados com Python, FastAPI e LLMs. Fui um dos fundadores da APIX9, que desenvolveu uma pipeline de extração e padronização de demonstrações contábeis para análise de crédito, combinando LLMs e regras determinísticas. O código foi vendido ao cliente e por isso é privado.
 
