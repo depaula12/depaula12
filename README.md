@@ -6,6 +6,10 @@ Construo pipelines de dados com Python, FastAPI e LLMs. Fui um dos fundadores da
 
 **Stack:** Python · FastAPI · PostgreSQL (Supabase) · Angular · Railway · APIs de LLM · Git
 
-**Projeto público:** [mebbet](https://github.com/depaula12/mebbet), quiz de estudo gamificado
+## Projetos
+
+- **[solonely.](https://github.com/depaula12/treinador-improviso)**: banda de apoio no navegador para treinar improviso na guitarra. Ouve o que você toca (detecção de nota e de acorde), mostra no braço para onde mirar e sugere os próximos acordes em tempo real. React, TypeScript e Tone.js · [teste aqui](https://treinador-improviso.vercel.app)
+- **[mebbet](https://github.com/depaula12/mebbet)**: quiz de estudo gamificado para uma disciplina do ITA, com banca, roleta e ranking da sala. JavaScript e Supabase · [teste aqui](https://mebbet.vercel.app)
+- **[pendencias](https://github.com/depaula12/pendencias)**: widget de tarefas para Windows que lê e edita uma nota do Obsidian, ordenada por prioridade. Python, tkinter e Win32 API
 
 **Contato:** [LinkedIn](https://www.linkedin.com/in/mtdepaula12)
